@@ -1,4 +1,4 @@
-# GraphgQL
+# GraphQL
 
 ## What is it?
 * GraphQL is a query language used with APIs to get and edit data.
