@@ -215,5 +215,5 @@ The above info is certainly good to know, but not super necessary for a baseline
 This is also a huge amount of inforation that I don't totally get so now it's example time.
 
 ## Links
-[GraphQL Home Page](https://graphql.org/)
-[GraphQL JS Guide](https://graphql.org/graphql-js/)
+* [GraphQL Home Page](https://graphql.org/)
+* [GraphQL JS Guide](https://graphql.org/graphql-js/)
